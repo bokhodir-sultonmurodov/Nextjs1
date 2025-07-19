@@ -20,6 +20,9 @@ const Header = () => {
           <Link href="/user" className="text-gray-700 font-medium hover:text-black transition-colors">
             Users
           </Link>
+          <Link href="/post" className="text-gray-700 font-medium hover:text-black transition-colors">
+            Posts
+          </Link>
           <Link href="/login" className="text-gray-700 font-medium hover:text-black transition-colors">
             Login
           </Link>
